@@ -52,7 +52,6 @@ alias multi_array
         [ run resize.cpp ]
         [ run assert.cpp ]
         [ run reverse_view.cpp ]
-        [ run allocators.cpp ]
 
         [ compile concept_checks.cpp ]
     ;
